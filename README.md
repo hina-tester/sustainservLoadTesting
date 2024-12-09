@@ -1,5 +1,5 @@
 # sustainservLoadTesting
-Want to know how many users can be handel by website
+Want to know how many users can be handel by website by using Jmeter
 1.Test Overview
 •	Test Name: Website Stress Test
 •	Test Date: 6-12-2024
